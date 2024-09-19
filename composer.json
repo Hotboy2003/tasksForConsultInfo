@@ -1,0 +1,16 @@
+{
+    "name": "app/tasks",
+    "autoload": {
+        "psr-4": {
+			"App\\": "src",
+			"Core\\": "core"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hotboy2003",
+            "email": "alex.obyn@yandex.ru"
+        }
+    ],
+    "require": {}
+}
